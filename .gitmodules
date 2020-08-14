@@ -1,0 +1,3 @@
+[submodule "intermediate-normal-merge"]
+	path = intermediate-normal-merge
+	url = https://course-gitlab.tuni.fi/git-course/intermediate-normal-merge.git
